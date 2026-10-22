@@ -1,1 +1,1 @@
-# ai-nst-project
+# NeuroArt-AI
